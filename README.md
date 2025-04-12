@@ -5,7 +5,7 @@
 * Micro:bits can be used with either Scratch or MakeCode
 * MakeCode tends to be easier to get up and running, since it will use WebUSB and works across Windows, Macs and Chromebooks equally
 * Micro:bits on Scratch requires Scratch Link to run in the background, to pair Scratch with the Micro:bit over Bluetooth.
-   * Scratch Link tends to be tempramental on Macs and does not exist for Chromebooks at all
+   * Scratch Link tends to be temperamental on Macs and does not exist for Chromebooks at all
 
 ## Projects
 
