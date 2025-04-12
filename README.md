@@ -16,12 +16,13 @@
 
 ## Preparing a Micro:bit Club Pack for CoderDojo
 
-TIP: When updating multiple microbits (either firmware or Scratch) @conallob would save time by:
-   * Downloading the relevant hex files and be ready to go
-   * Use the same CLI copy command to copy the hex file over
-   * Attach a micro:bit
-   * Copy the hex file over
-   * Disconnect micro:bit and attach the next micro:bit.
+> [!TIP]
+> When updating multiple microbits (either firmware or Scratch) @conallob would save time by:
+>   * Downloading the relevant hex files and be ready to go
+>   * Use the same CLI copy command to copy the hex file over
+>   * Attach a micro:bit
+>   * Copy the hex file over
+>   * Disconnect micro:bit and attach the next micro:bit.
 
 ## Update the Micro:bit Firmware
 
